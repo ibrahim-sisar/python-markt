@@ -38,7 +38,7 @@ To run this project, you will need to install the following dependencies:
 1. **Python 3.x** (Ensure Python is installed on your system)
 2. Install the required Python libraries:
     ```bash
-    pip install opencv-python pyzbar Pillow openpyxl pyttsx3
+    pip install -r requirements.txt
     ```
 
 ## Usage
@@ -49,7 +49,7 @@ To run this project, you will need to install the following dependencies:
 2. Open a terminal or command prompt in the project directory.
 3. Run the application using the following command:
     ```bash
-    python m.py
+    python markt.py
     ```
 
 ### Barcode Scanning
