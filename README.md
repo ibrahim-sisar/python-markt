@@ -71,7 +71,7 @@ To run this project, you will need to install the following dependencies:
 
 ## Files and Directories
 
-- **main.py**: The main application file that runs the system.
+- **markt.py**: The main application file that runs the system.
 - **customers.xlsx**: Excel file that stores customer information and invoices.
 - **excel/ib.xlsx**: Excel file that stores product information (barcode, name, price).
 - **img/ico/market.ico**: Application icon.
